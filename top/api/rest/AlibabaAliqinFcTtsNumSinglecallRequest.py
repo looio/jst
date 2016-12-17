@@ -1,5 +1,5 @@
 '''
-Created by auto_sdk on 2016.07.20
+Created by auto_sdk on 2016.11.30
 '''
 from top.api.base import RestApi
 
